@@ -1,5 +1,7 @@
 # Example: Portfolio Site
 
+Languages: English | [简体中文](README.zh-CN.md)
+
 This example shows how the playbook should guide an expressive but usable portfolio.
 
 The task:

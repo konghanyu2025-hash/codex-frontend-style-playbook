@@ -1,5 +1,7 @@
 # Contributing
 
+Language: English | [简体中文](CONTRIBUTING.zh-CN.md)
+
 Contributions should make agent-driven frontend work more concrete, repeatable, or easier to verify.
 
 Good contributions include:

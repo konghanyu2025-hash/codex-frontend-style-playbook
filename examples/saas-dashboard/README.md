@@ -1,5 +1,7 @@
 # Example: SaaS Dashboard
 
+Languages: English | [简体中文](README.zh-CN.md)
+
 This example shows how the playbook should guide a dense operational SaaS interface.
 
 The task:

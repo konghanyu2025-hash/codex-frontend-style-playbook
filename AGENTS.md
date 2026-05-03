@@ -1,5 +1,7 @@
 # Frontend Agent Rules
 
+Language: English | [简体中文](AGENTS.zh-CN.md)
+
 These rules apply when an agent uses this repository to build or improve a frontend.
 
 ## Goal

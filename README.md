@@ -1,5 +1,7 @@
 # Codex Frontend Style Playbook
 
+Languages: English | [简体中文](README.zh-CN.md)
+
 Codex Frontend Style Playbook is a Codex-first workflow pack for building better frontends with coding agents.
 
 The core idea is simple: do not ask an agent to "make it modern" and hope for taste. First create a visual direction, then extract concrete rules, then implement against screenshot-based acceptance checks.

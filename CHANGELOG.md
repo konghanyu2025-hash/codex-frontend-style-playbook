@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1
+
+- Added Simplified Chinese documentation, workflows, prompts, templates, and example briefs.
+- Added language links for the main README, agent rules, and contribution guide.
+
 ## 0.1.0
 
 - Initial Codex-first frontend style playbook.
